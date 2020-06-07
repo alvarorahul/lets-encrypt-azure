@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: robotix1986-letsencrypt-func
+  ResourceGroup: robotix1986-letsencrypt-fn
 jobs:
   build:
     runs-on: ubuntu-latest
